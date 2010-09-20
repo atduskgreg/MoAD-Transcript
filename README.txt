@@ -1,0 +1,1 @@
+An in-progress transcription of the epochal demo presented by Doug Englebart and the staff of SRI's Augmenting Human Intellect group at the Fall Joint Computer Conference on December 8, 1968. The transcription will eventually include screen shots, timings, and text descriptions of each shot in the hour long video of the event as well as a full text transcription.
