@@ -1,0 +1,278 @@
+Shots:
+    - time_code : "00:00:00"
+      description: TITLE CARD
+      image_url: http://img.skitch.com/20100920-p2qksdwu2ifxeuh27axihq1i95.jpg
+      transcription: | 
+        A RESEARCH CENTER
+              FOR
+        AUGMENTING HUMAN INTELLECT
+              BY
+        DOUGLAS C. ENGLEBART AND
+          WILLIAM ENGLISH
+          
+          DECEMBER 8, 1968 RESEARCH CENTER
+
+      transition_out: fade_to 
+
+    - time_code : "00:00:07"
+      description : TITLE CARD
+      image_url : http://img.skitch.com/20100920-cycbqs51m8k7iieyffgpw8t5d8.jpg
+      transcription: |
+        PRODUCED AT
+        STANFORD RESEARCH INSTITUTE
+        MENLO PARK, CALIFORNIA
+        UNDER THE JOINT SPONSORSHIP OF:
+        THE ADVANCED RESEARCH PROJECT AGENCY
+        THE NATIONAL AIR AND SPACE AGENCY
+        THE ROME AIR DEVELOPMENT CENTER | AIFORCE
+      
+      transition_out: fade to
+    
+    - time_code: "00:00:19"
+      description: TITLE CARD
+      image_url: http://img.skitch.com/20100920-cj6u45xgj59ck9pwwwdappkxmp.jpg
+      transcription: | 
+        THIS MOVIE CAPTURES DIRECTLY A 
+        TECHNICAL-SESSION PRESENTATION MADE AT
+        THE FALL JOINT COMPUTER CONFERENCE IN 
+        SAN FRANCISCO. ON DECEMBER 8, 1968.
+        
+        THE MOVIE SCREEN WILL SHOW WHAT WAS 
+        PROJECTED BY A HIGH-POWERED TV 
+        PROJECTOR ONTO A 22' X 18' SCREEN
+        MOUNTED AT THE FRONT OF A 2000-CHAIR
+        CONVENTION-CENTER ARENA. AND THE SOUND
+        TRACK WILL REPRODUCE WHAT CAME OVER 
+        THE LOUDSPEAKERS.
+        
+      transition_out: fade to
+    
+    - time_code: "00:00:37"
+      description: TITLE CARD
+      image_url: http://img.skitch.com/20100920-qam3g2u3rtmcdkut5mss6fxnwf.jpg
+      transcription: | 
+        ON THE STAGE, BELOW AND TO THE
+        AUDIENCE'S RIGHT OF THE SCREEN, WAS
+        SEATED THE MAIN SPEAKER (DOUG
+        ENGLEBART) AT THE CONTROLS OF AN
+        ON-LINE COMPUTER-DISPLAY WORK STATION
+        WHOSE DISPLAY OUTPUT WAS PROJECTED ON
+        THE SCREEN (AND SIMULTANEOUSLY
+        CAPTURED ON FILM).
+        
+      transition_out: fade to
+     
+    - time_code: "00:00:51"
+      description: TITLE CARD
+      image_url: http://img.skitch.com/20100920-pn56drd9wkpt9bscr32c8wf7m3.jpg
+      transcription: |
+        BEHIND THE SCENES, BILL ENGLISH
+        COORDINATED THE SUPPORTING CREW WHO
+        MANNED CAMERAS, SWITCHES, MIXERS,
+        SPECIAL-EFFECTS CONTROLLERS, ETC..
+        YOU WILL NOTICE THAT ALL PERFORMERS
+        WORE HEADSETS TO COUPLE THEM INTO THE
+        INTERCOM NETWORK THAT INCLUDED A TOTAL
+        OF SIX KEY PEOPLE LOCATED BOTH IN SAN
+        FRANCISCO AND AT THE HOM LABORATORY
+        IN MENLO PARK.
+        
+      transition_out: fade to
+
+    - time_code: "00:01:12"
+      description: TITLE CARD
+      image_url: http://img.skitch.com/20100920-tdhriem4jmp8pphiaxupiw4u4p.jpg
+      transcription: |
+        THE CAPTURING ON FILM OF THE AUDIO
+        AND VIDEO WAS A PROCESS SUBSIDIARY TO
+        THE PRESENTATION, AND THE LATTER WAS
+        NOT STOPPED FOR THE TWO TIMES WHEN THE
+        MOVIE-CAMERA OPERATOR HAD TO LOAD
+        FRESH FILM -- CONSEQUENTLY, THERE ARE
+        NOTICEABLE GAPS BETWEEN REELS [OF THE
+        ORDER OF A MINUTE].
+        SIGNALS FROM AUXILIARY TELEVISION
+        CAMERAS WERE SOMETIMES SWITCHED TO THE
+        PROJECTOR -- THE OPENING SCENE IS FROM
+        SUCH A CAMERA, SHOWING ENGLEBART'S
+        FACE VIEW, JUST AFTER HE WAS
+        INTRODUCED.
+        
+      transition_out: fade in from black
+      
+    - time_code: "00:01:32"
+      description: LOW ANGLE OF ENGLEBART
+      image_url: http://img.skitch.com/20100920-rx1bbju52nmrfn4ka22jnrhfxf.jpg
+      transcription: |
+        - apologies for format
+        - introduction of backstage staff
+        - goal of program
+        
+      transition_out: overlay with
+    
+    - time_code: "00:03:18"
+      description: SCREEN OVERLAY
+      image_url: http://img.skitch.com/20100920-r557p91ygxdnj71p31cmcf79w.jpg
+      transcription: |
+        - blank document
+        - inserts a "statement"
+        
+        STATEMENT: WORD WORD WORD WORD
+        #=> STATEMENT ONE: WORD WORD WORD WORD
+        
+        - mouse comes up from the bottom of the screen trailing a thin line behind it
+        - mouse moves over a word, copy and pasting it after itself accompanied by an analogue printer-type sound
+        - copying and pasting to individual insertion points
+        - output to a file: a menu at the top of the screen:
+    
+      transition_out: camera fade to white
+      
+    - time_code: "00:04:28"
+      description: SCREEN
+      image_url: http://img.skitch.com/20100920-msuyefb7kaukyb4y2a3kse2xqq.jpg
+      transcription: |
+        STATEMENT ONE: WORD WORD WORD WORD WORD WORD
+        WORD WORD WORD WORD WORD WORD WORD WORD WORD WORD 
+        WORD WORD WORD WORD WORD WORD WORD WORD ...
+        - output to file interface at top of screen:
+        
+        OUTPUT FILE    /NEED NAME
+        
+      transition_out: camera image fades to
+      
+    - time_code: "00:04:46"
+      description: ENGLEBART's HANDS ON KEYBOARD
+      image_url: http://img.skitch.com/20100920-tpd4r99rsygbn4sk5mbxwjpa51.jpg
+      transcription: |
+        - completing process of saving file, top of screen interface:
+        
+        OUTPUT FILE  /SAMPLE\|FILE    |NEW|
+        
+        - machine outputs a "header": name, date, etc
+        - englebart does some key-combo to get info about the file
+        - more copy and pasting: from point-to-point etc
+        - englebart collapses each statement to just its first line
+
+      transition_out: camera image fades out
+      
+    - time_code: "00:05:52"
+      description: SCREEN
+      image_url: http://img.skitch.com/20100920-mpfyksbnxj54i6cbd4gfrmm5h4.jpg
+      transcription: |
+        - "view control"
+        
+      transition_out: camera image fades in
+
+    - time_code: "00:06:04"
+      description: LOW ANGLE OF ENGLEBART
+      image_url: http://img.skitch.com/20100920-1e4xqn7k8gsi3h4n714yyeb3wd.jpg
+      transcription: |
+        - renaming statements:
+        STATEMENT ONE: WORD WORD WORD WORD WORD WORD
+        STATEMENT TWO: WORD WORD WORD WORD WORD WORD
+        STATEMENT THREE: WORD WORD WORD WORD WORD WORD
+        STATEMENT FOUR: WORD WORD WORD WORD WORD WORD
+        STATEMENT FIVE: WORD WORD WORD WORD WORD WORD
+        STATEMENT SIX: WORD WORD WORD WORD WORD WORD
+        
+        - "neatening up" statements
+        
+        STATEMENT ONE:    WORD WORD WORD WORD WORD WORD
+        STATEMENT TWO:    WORD WORD WORD WORD WORD WORD
+        STATEMENT THREE:  WORD WORD WORD WORD WORD WORD
+        STATEMENT FOUR:   WORD WORD WORD WORD WORD WORD
+        STATEMENT FIVE:   WORD WORD WORD WORD WORD WORD
+        STATEMENT SIX:    WORD WORD WORD WORD WORD WORD
+        
+        - replace "invisible strings" [tabs for spaces]
+        - add numbering:
+        
+        1 STATEMENT ONE:    WORD WORD WORD WORD WORD WORD
+        2 STATEMENT TWO:    WORD WORD WORD WORD WORD WORD
+        3 STATEMENT THREE:  WORD WORD WORD WORD WORD WORD
+        4 STATEMENT FOUR:   WORD WORD WORD WORD WORD WORD
+        5 STATEMENT FIVE:   WORD WORD WORD WORD WORD WORD
+        6 STATEMENT SIX:    WORD WORD WORD WORD WORD WORD
+        
+        - opens them up with numbers
+        - removes numbers
+        - accidentally deletes file and reloads it from an old saved version
+        - loading a file with his wife's shopping list
+        
+      transition_out: camera fade to white
+      
+    - time_code: "00:08:48"
+      description: SCREEN
+      image_url: http://img.skitch.com/20100920-eakgdermwebbxubjq4gywj4hh.jpg
+      transcription: |
+        /SHOPLIST, 12/07/68 1127.20 DCE
+        ORANGES
+        APPLES
+        BANNAS
+        SOUP
+        ...
+        
+        - reveals numbers
+        - paging down by clicking on individual numbers
+        
+      transition_out: wipe in from right to
+
+    - time_code: "00:09:09"
+      description: LOW ON ENGLEBART SPLIT WITH SCREEN
+      image_url: http://img.skitch.com/20100920-xi943cxtnqkqjjffi28m5xdhae.jpg
+      transcription: |
+          - reordering list
+          - problem creating category
+          - successfully creates "produce category" with indenting
+          SOUP
+          PRODUCE
+            CARROTS
+            BANANAS
+              SKINLESS
+            ORANGES
+            APPLES
+          LETTTUCE
+          - with and without numbers
+          - opening and closing levels of outline- opens version of the file organized by each store that he needs to stop at
+          - jumping around numbered list by location numberJUMP TO NUMBER
+          JUMP TO NAME
+            
+          - making cross-references
+          - naming something "ALPHA" and linking it to another place in the document
+          - clicks on a ROUTE
+          - list is replaced with a map
+          
+      transition_out: wipe to
+      
+    - time_code: "00:15:37"
+      description: SCREEN
+      image_url: http://img.skitch.com/20100920-bytpg4dah7pnx6xgawr14jnk8s.jpg
+      transcription: |
+         - lines connecting points on a route, labeled with text
+         - "picturing drawing capability"
+         - labels on text are links back into list
+         - back to list outline
+    
+      transition_out: wipe in from right
+    
+    - time_code: "00:16:36"
+      description: LOW ON ENGLEBART SPLIT WITH SCREEN
+      image_url: http://img.skitch.com/20100920-mnax4gp9e1sfeis34snbkx1fbi.jpg
+      transcription: |
+         - returns to outline, but outline is agenda for presentation:
+         INTRODUCTION
+           ----
+         OVERALL ABOUT PROGRAM
+         NLS AS AN "INSTRUMENT"
+         CONTROL TECHNIQUES
+         NLS IMPLEMENTATION
+         USAGE
+         ACTIVITIES
+         CREDIT
+     
+      transition_out: Swipe to
+    
+    - time_code: "00:16:45"
+      description: LOW ON ENGLEBART
+      image_url: http://img.skitch.com/20100920-qk19nh45xe464b1hsabd2ngejy.jpg
+     
