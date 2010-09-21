@@ -2,7 +2,7 @@ Shots:
     - time_code : "00:00:00"
       description: TITLE CARD
       image_url: http://img.skitch.com/20100920-p2qksdwu2ifxeuh27axihq1i95.jpg
-      transcription: | 
+      notes: | 
         A RESEARCH CENTER
               FOR
         AUGMENTING HUMAN INTELLECT
@@ -17,7 +17,7 @@ Shots:
     - time_code : "00:00:07"
       description : TITLE CARD
       image_url : http://img.skitch.com/20100920-cycbqs51m8k7iieyffgpw8t5d8.jpg
-      transcription: |
+      notes: |
         PRODUCED AT
         STANFORD RESEARCH INSTITUTE
         MENLO PARK, CALIFORNIA
@@ -31,7 +31,7 @@ Shots:
     - time_code: "00:00:19"
       description: TITLE CARD
       image_url: http://img.skitch.com/20100920-cj6u45xgj59ck9pwwwdappkxmp.jpg
-      transcription: | 
+      notes: | 
         THIS MOVIE CAPTURES DIRECTLY A 
         TECHNICAL-SESSION PRESENTATION MADE AT
         THE FALL JOINT COMPUTER CONFERENCE IN 
@@ -50,7 +50,7 @@ Shots:
     - time_code: "00:00:37"
       description: TITLE CARD
       image_url: http://img.skitch.com/20100920-qam3g2u3rtmcdkut5mss6fxnwf.jpg
-      transcription: | 
+      notes: | 
         ON THE STAGE, BELOW AND TO THE
         AUDIENCE'S RIGHT OF THE SCREEN, WAS
         SEATED THE MAIN SPEAKER (DOUG
@@ -65,7 +65,7 @@ Shots:
     - time_code: "00:00:51"
       description: TITLE CARD
       image_url: http://img.skitch.com/20100920-pn56drd9wkpt9bscr32c8wf7m3.jpg
-      transcription: |
+      notes: |
         BEHIND THE SCENES, BILL ENGLISH
         COORDINATED THE SUPPORTING CREW WHO
         MANNED CAMERAS, SWITCHES, MIXERS,
@@ -82,7 +82,7 @@ Shots:
     - time_code: "00:01:12"
       description: TITLE CARD
       image_url: http://img.skitch.com/20100920-tdhriem4jmp8pphiaxupiw4u4p.jpg
-      transcription: |
+      notes: |
         THE CAPTURING ON FILM OF THE AUDIO
         AND VIDEO WAS A PROCESS SUBSIDIARY TO
         THE PRESENTATION, AND THE LATTER WAS
@@ -103,7 +103,7 @@ Shots:
     - time_code: "00:01:32"
       description: LOW ANGLE OF ENGLEBART
       image_url: http://img.skitch.com/20100920-rx1bbju52nmrfn4ka22jnrhfxf.jpg
-      transcription: |
+      notes: |
         - apologies for format
         - introduction of backstage staff
         - goal of program
@@ -113,7 +113,7 @@ Shots:
     - time_code: "00:03:18"
       description: SCREEN OVERLAY
       image_url: http://img.skitch.com/20100920-r557p91ygxdnj71p31cmcf79w.jpg
-      transcription: |
+      notes: |
         - blank document
         - inserts a "statement"
         
@@ -130,7 +130,7 @@ Shots:
     - time_code: "00:04:28"
       description: SCREEN
       image_url: http://img.skitch.com/20100920-msuyefb7kaukyb4y2a3kse2xqq.jpg
-      transcription: |
+      notes: |
         STATEMENT ONE: WORD WORD WORD WORD WORD WORD
         WORD WORD WORD WORD WORD WORD WORD WORD WORD WORD 
         WORD WORD WORD WORD WORD WORD WORD WORD ...
@@ -143,7 +143,7 @@ Shots:
     - time_code: "00:04:46"
       description: ENGLEBART's HANDS ON KEYBOARD
       image_url: http://img.skitch.com/20100920-tpd4r99rsygbn4sk5mbxwjpa51.jpg
-      transcription: |
+      notes: |
         - completing process of saving file, top of screen interface:
         
         OUTPUT FILE  /SAMPLE\|FILE    |NEW|
@@ -158,7 +158,7 @@ Shots:
     - time_code: "00:05:52"
       description: SCREEN
       image_url: http://img.skitch.com/20100920-mpfyksbnxj54i6cbd4gfrmm5h4.jpg
-      transcription: |
+      notes: |
         - "view control"
         
       transition_out: camera image fades in
@@ -166,7 +166,7 @@ Shots:
     - time_code: "00:06:04"
       description: LOW ANGLE OF ENGLEBART
       image_url: http://img.skitch.com/20100920-1e4xqn7k8gsi3h4n714yyeb3wd.jpg
-      transcription: |
+      notes: |
         - renaming statements:
         STATEMENT ONE: WORD WORD WORD WORD WORD WORD
         STATEMENT TWO: WORD WORD WORD WORD WORD WORD
@@ -204,7 +204,7 @@ Shots:
     - time_code: "00:08:48"
       description: SCREEN
       image_url: http://img.skitch.com/20100920-eakgdermwebbxubjq4gywj4hh.jpg
-      transcription: |
+      notes: |
         /SHOPLIST, 12/07/68 1127.20 DCE
         ORANGES
         APPLES
@@ -218,9 +218,9 @@ Shots:
       transition_out: wipe in from right to
 
     - time_code: "00:09:09"
-      description: LOW ON ENGLEBART SPLIT WITH SCREEN
+      description: LOW ON ENGLEBART VSPLIT WITH SCREEN
       image_url: http://img.skitch.com/20100920-xi943cxtnqkqjjffi28m5xdhae.jpg
-      transcription: |
+      notes: |
           - reordering list
           - problem creating category
           - successfully creates "produce category" with indenting
@@ -234,7 +234,8 @@ Shots:
           LETTTUCE
           - with and without numbers
           - opening and closing levels of outline- opens version of the file organized by each store that he needs to stop at
-          - jumping around numbered list by location numberJUMP TO NUMBER
+          - jumping around numbered list by location number
+          JUMP TO NUMBER
           JUMP TO NAME
             
           - making cross-references
@@ -247,7 +248,7 @@ Shots:
     - time_code: "00:15:37"
       description: SCREEN
       image_url: http://img.skitch.com/20100920-bytpg4dah7pnx6xgawr14jnk8s.jpg
-      transcription: |
+      notes: |
          - lines connecting points on a route, labeled with text
          - "picturing drawing capability"
          - labels on text are links back into list
@@ -256,9 +257,9 @@ Shots:
       transition_out: wipe in from right
     
     - time_code: "00:16:36"
-      description: LOW ON ENGLEBART SPLIT WITH SCREEN
+      description: LOW ON ENGLEBART VSPLIT WITH SCREEN
       image_url: http://img.skitch.com/20100920-mnax4gp9e1sfeis34snbkx1fbi.jpg
-      transcription: |
+      notes: |
          - returns to outline, but outline is agenda for presentation:
          INTRODUCTION
            ----
@@ -275,4 +276,273 @@ Shots:
     - time_code: "00:16:45"
       description: LOW ON ENGLEBART
       image_url: http://img.skitch.com/20100920-qk19nh45xe464b1hsabd2ngejy.jpg
-     
+      notes: | 
+        - real daily use of the system
+        - general features
+        
+    - time_code: "00:17:43"
+      description: SCREEN
+      image_url: http://img.skitch.com/20100920-qejj7dmkga26qyfpq1dj8aaq28.jpg
+      additional_images:
+        - "http://img.skitch.com/20100921-nwijr3ikn1csi9uih8qgpbfmqu.jpg"
+        - "http://img.skitch.com/20100921-bbrxi4tgwwcgttp5anbw4wg3bi.jpg"
+      notes: |
+        FREEZE LATER: 
+        JUMP: 
+        - link-based presentation software
+        - explains jumps and their arguments
+        - frozen statements: like a frame
+        - explanation of Augment's position in SRI
+        - ARC: 17 people with lab
+        - graph of ARC staffing over time (1950-1968) 
+        - proceeds through ARC goals: system-oriented solution, etc.
+        - NLS: "online system": an instrument and a vehicle
+        - control devices
+        
+      transition_out: half-wipe up 
+    
+    - time_code: "00:26:05"
+      description: ENGLEBART HANDS ON KEYBOARD HSPLIT WITH SCREEN
+      image_url: http://img.skitch.com/20100921-rhj56mdkwixjpddwka968tanxs.jpg
+      additional_images:
+          - "http://img.skitch.com/20100921-gu5rq5s7dbnu9ek341tu9jtqdu.jpg"
+      notes: |
+            - moves hands to reveal mouse and special keys
+      
+      transition_out: cut to vertical half-wipe
+      
+    - time_code: "00:26:18"
+      description: ENGLEBART HANDS ON KEYBOARD VSPLIT WITH SCREEN
+      image_url: http://img.skitch.com/20100921-f3fj5qi2sn3a1iix1gfkmrix85.jpg
+      transition_out: cut to horizontal half-wipe
+      
+    - time_code: "00:26:24"
+      description: ENGLEBART HANDS ON KEYBOARD HSPLIT WITH SCREEN
+      image_url: http://img.skitch.com/20100921-nbrtsj6e47dyynx6a8c3nhqts4.jpg
+      notes: |
+            - Englebart announces switch to Menlo Park for mouse demo
+      transition_out: wipe down to full screen
+      
+    - time_code: "00:26:32"
+      description: SCREEN
+      image_url: http://img.skitch.com/20100921-cbb7mppsrm3kwpu9yja8dqme3r.jpg
+      notes: |
+            - "Come in Menlo Park"
+      transition_out: half-wipe in from right
+    
+    - time_code: "00:26:33"
+      description: HAND ON MOUSE HSPLIT WITH SCREEN
+      image_url: http://img.skitch.com/20100921-fsttf5iw59r4f2r595iietqds1.jpg
+      notes: | 
+            - "OK. There's Don Anders' hand in Menlo Park."
+      transition_out: screen cuts to Menlo Park screen
+      
+    - time_code: "00:26:40"
+      description: HAND ON MOUSE HSPLIT WITH MENLO PARK SCREEN
+      image_url: http://img.skitch.com/20100921-mxg248286j1fr78bunpp3e38qr.jpg
+      additional_images:
+        - "http://img.skitch.com/20100921-rff5qey526j46y7j7ixybbt4tn.jpg"
+      notes: |
+        "I don't know why we call it a mouse. Sometimes I apologize"
+        - Don turns the mouse over to reveal its wheels
+        - two pots at 90-degree angles to each other
+      transition_out: wipe right to full screen
+      
+    - time_code: "00:27:43"
+      description: MENLO PARK SCREEN
+      image_url: http://img.skitch.com/20100921-xctqk34xy272win2e1eyrf5amd.jpg
+
+    - time_code: "00:27:46"
+      description: ENGLEBART HANDS ON KEYBOARD
+      image_url: http://img.skitch.com/20100921-tj6cxhmcdfbjns41dr2ujgxh6c.jpg
+      additional_images: 
+        - "http://img.skitch.com/20100921-j3xcu7cpdu9cuqc8kt2h24rki4.jpg"
+      notes: |
+        - camera rotates around more directly behind englebart
+        - explaining lack of absolute position of mouse pointer
+      transition_out: jump cut to same shot
+      
+    - time_code: "00:28:43"
+      description: ENGLEBART HANDS ON KEYBOARD
+      image_url: http://img.skitch.com/20100921-fdm56kt3k8xghmge7qg4g4w6a7.jpg
+      notes: | 
+        - fidgeting with special keyboard
+      transition_out: cut with static
+      
+    - time_code: "00:28:52"
+      description: MENLO PARK SCREEN
+      image_url: http://img.skitch.com/20100921-k472pqsq9ni9mk3wyaysh7gbdb.jpg
+      transition_out: half-wipe in from right
+      
+    - time_code: "00:28:53"
+      description: HAND ON SPECIAL KEYS HSPLIT WITH MENLO PARK SCREEN
+      image_url: http://img.skitch.com/20100921-1q56rfu8mp3kmrkd1deiyt5256.jpg
+      notes: |
+        - combinations of keys produce different characters
+      transition_out: jump cut
+      
+    - time_code: "00:29:18"
+      description: BLACK
+      image_url: http://img.skitch.com/20100921-c4c68unm9ncnbdaxpga2pfrt6d.jpg
+      transition_out: jump cut
+      
+    - time_code: "00:29:19"
+      description: SCREEN
+      image_url: http://img.skitch.com/20100921-1bxd5akisdkgxiysrxtuuj5knx.jpg
+      additional_images: 
+        - "http://img.skitch.com/20100921-ehge68g6tts3n3bbxp7i3nbf1m.jpg"
+      notes: |
+          - Bill English's diagram about how the controllers work
+          - things they added to a conventional SDS-940 system
+          - Project Genie timesharing project priority system
+      transition: fade
+      
+    - time_code: "00:32:11"
+      description: MENLO PARK DISPLAY HARDWARE
+      image_url: http://img.skitch.com/20100921-rbu3ax771uyfkxqahrud71ciq8.jpg
+      additional_images:
+        - "http://img.skitch.com/20100921-k5wf5gigc2yryc5uxiux136pti.jpg"
+        - "http://img.skitch.com/20100921-xj7mykqg749aufgi34pm16muap.jpg"
+      notes: |
+        - push in to close up of CRT inside display
+      transition_out: fade
+      
+    - time_code: "00:32:30"
+      description: MENLO PARK DISPLAY HARDWARE OVERLAID WITH SCREEN
+      image_url: http://img.skitch.com/20100921-1gqmbt4k9sai4dtw41gkj5nw1n.jpg
+      notes: |
+        - overlays image from Englebart screen with Menlo Park CRT to show they are the same
+      transition_out: pull out and fade
+      
+    - time_code: "00:32:27"
+      description: MENLO PARK DISPLAY HARDWARE
+      image_url: http://img.skitch.com/20100921-tw1p4ykuwticg3ie4e7rsme925.jpg
+      additional_images:
+        - "http://img.skitch.com/20100921-pc962bhu8jrgf37u7wcgn6b5cn.jpg"
+        - "http://img.skitch.com/20100921-kyqbsebqhqq741hs7xpm66us4f.jpg"
+        - "http://img.skitch.com/20100921-pb4ynb42aaq52f3pu6rb9gyahj.jpg"
+        - "http://img.skitch.com/20100921-trgx3weecfq323y775hckqfw8q.jpg"
+        - "http://img.skitch.com/20100921-piyar15m45hfqkqxik5wqjmhmd.jpg"
+      notes: |
+        - pan right and pull out to show the rest of the display hardware
+      transition_out: cut
+      
+    - time_code: "00:33:25"
+      description: SCREEN
+      image_url: http://img.skitch.com/20100921-q5bgbgjxfnxx657awcdipx9q2q.jpg
+      notes: |
+        - description of display system functioning
+      transition_out: fade  
+    - time_code: "00:34:31"
+      description: LOW ANGLE OF ENGLEBART OVERLAID WITH SCREEN
+      image_url: http://img.skitch.com/20100921-mwi6dt281nub2fq995a3w9krjm.jpg
+      additional_images:
+        - "http://img.skitch.com/20100921-1w899spnardb55k8k8m3rrrf5u.jpg"
+      notes: |
+        - sticky cathode to acheive low refresh rate on CRT
+        - mix of fade shifts towards screen
+      transition: fade
+      
+    - time_code: "00:35:27"
+      description: SCREEN
+      image_url: http://img.skitch.com/20100921-fmhen3651qcjy781y4g53eg3ki.jpg
+      notes: |
+        - introduction of Jeff Willison at Menlo Park
+      transition_out: fade
+      
+    - time_code: "00:35:35"
+      description: JEFF AT MENLO PARK
+      image_url: http://img.skitch.com/20100921-gajkdqigg1skxdhc2knbbrd67f.jpg
+      notes: |
+        - Englebart prompts him with questions
+      transition: fade
+      
+    - time_code: "00:36:36"
+      description: JEFF OVERLAID WITH MENLO PARK SCREEN
+      image_url: http://img.skitch.com/20100921-ginrmtew7d5ibws83269hbws2g.jpg
+      notes: |
+        - showing an interface the system programmers built
+      transition_out: fade
+      
+    - time_code: "00:36:49"
+      description: MENLO PARK SCREEN
+      image_url: http://img.skitch.com/20100921-b85cqiw18jau12mqhmj8f557wn.jpg
+      additional_images: 
+        - "http://img.skitch.com/20100921-m5uxbgc4hb8muyuk82t4je69gn.jpg"
+      notes: |
+        - is this the actual source code?
+      transtition_out: fade
+      
+    - time_code: "00:39:36"
+      description: CLOSE-UP OF JEFF's HAND ON CHORDING KEYBOARD OVERLAID WITH MENLO PARK SCREEN
+      image_url: http://img.skitch.com/20100921-b4xhdhx9wrn9m139fiajepm4pb.jpg
+      notes: |
+        - examples of different languages
+        - higher and lower languages
+      transition_out: fade
+      
+    - time_code: "00:40:33"
+      description: MENLO PARK SCREEN
+      image_url: http://img.skitch.com/20100921-dj6mp8ik138n338des9r9tctm2.jpg
+      notes: |
+        - close-reading of code
+        - code folding
+      transition_out: fade
+      
+    - time_code: "00:41:29"
+      description: JEFF OVERLAID WITH MENLO PARK SCREEN
+      image_url: http://img.skitch.com/20100921-cr3hh82tqhapkhuqqwdpnim3n.jpg
+        - what's the difference between "special languages" and file formats? are they markup?
+      transition: fade
+    
+    - time_code: "00:42:19"
+      description: MENLO PARK SCREEN
+      image_url: http://img.skitch.com/20100921-xgedtrcycu56sjw81h17p368j2.jpg
+      transition_out: fade
+    
+    - time_code: "00:42:54"
+      description: JEFF OVERLAID WITH MENLO PARK SCREEN
+      image_url: http://img.skitch.com/20100921-1diie8cub6d8bybnmp9swcr7qx.jpg
+      notes: |
+        - language design
+      transition_out: fade
+      
+    - time_code: "00:43:21"
+      description: MENLO PARK SCREEN
+      image_url: http://img.skitch.com/20100921-kda91q74jmubwmmscbr6mepid2.jpg
+      notes: |
+        - dessign of the compiler-compiler "3 Meta"
+      transition_out: fade
+      
+    - time_code: "00:44:04"
+      description: JEFF OVERLAID WITH MENLO PARK SCREEN
+      image_url: http://img.skitch.com/20100921-ncqfy9enjwnyapsdbk6tihhjxe.jpg
+      transition_out: slow fade
+      
+    - time_code: "00:44:47"
+      description: MENLO PARK SCREEN
+      image_url: http://img.skitch.com/20100921-r1e7ccjtrdtwuptxjpqb5t59cp.jpg
+      transition_out: fade
+      
+    - time_code: "00:45:07"
+      description: LOW ON ENGLEBART
+      image_url: http://img.skitch.com/20100921-p4y2p2t6ex7d3tmixehmcxjg12.jpg
+      notes: |
+        - Englebart interrupts
+      transition_out: fade
+      
+    - time_code: "00:45:17"
+      description: MENLO PARK SCREEN
+      image_url: http://img.skitch.com/20100921-juck453yg2thx985bxp57d8t82.jpg
+      notes: |
+        - back and forth between Jeff and Englebart
+      transition_out: jump cut
+      
+    - time_code: "00:47:46"
+      description: SCREEN
+      image_url: http://img.skitch.com/20100921-8thftbb7mhm822rq9rs7q2a5nm.jpg
+      additional_images:
+        - "http://img.skitch.com/20100921-8a3ejuwumsqx28an8cxu86grrn.jpg"
+      notes: |
+        - split viewing "windows" (like emacs windows)
+        - mouse drawing in dictionary
