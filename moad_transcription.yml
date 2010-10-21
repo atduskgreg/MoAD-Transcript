@@ -395,7 +395,7 @@ Shots:
           - Bill English's diagram about how the controllers work
           - things they added to a conventional SDS-940 system
           - Project Genie timesharing project priority system
-      transition: fade
+      transition_out: fade
       
     - time_code: "00:32:11"
       description: MENLO PARK DISPLAY HARDWARE
@@ -441,7 +441,7 @@ Shots:
       notes: |
         - sticky cathode to acheive low refresh rate on CRT
         - mix of fade shifts towards screen
-      transition: fade
+      transition_out: fade
       
     - time_code: "00:35:27"
       description: SCREEN
@@ -455,7 +455,7 @@ Shots:
       image_url: http://img.skitch.com/20100921-gajkdqigg1skxdhc2knbbrd67f.jpg
       notes: |
         - Englebart prompts him with questions
-      transition: fade
+      transition_out: fade
       
     - time_code: "00:36:36"
       description: JEFF OVERLAID WITH MENLO PARK SCREEN
@@ -471,7 +471,7 @@ Shots:
         - "http://img.skitch.com/20100921-m5uxbgc4hb8muyuk82t4je69gn.jpg"
       notes: |
         - is this the actual source code?
-      transtition_out: fade
+      transition_out: fade
       
     - time_code: "00:39:36"
       description: CLOSE-UP OF JEFF's HAND ON CHORDING KEYBOARD OVERLAID WITH MENLO PARK SCREEN
@@ -493,7 +493,7 @@ Shots:
       description: JEFF OVERLAID WITH MENLO PARK SCREEN
       image_url: http://img.skitch.com/20100921-cr3hh82tqhapkhuqqwdpnim3n.jpg
         - what's the difference between "special languages" and file formats? are they markup?
-      transition: fade
+      transition_out: fade
     
     - time_code: "00:42:19"
       description: MENLO PARK SCREEN

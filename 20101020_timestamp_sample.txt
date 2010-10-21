@@ -1,0 +1,46 @@
+[Introduction]
+
+[1:31] [black frame]
+
+Doug Engelbart:  I hope that you'll go along with this rather unusual setting, and the fact that I remain seated when I get introduced, 
+[Frame Change] 
+
+and the fact that I'm going to come to you mostly through this medium here for the rest of the show.  And I should tell you that I'm backed up by quite a staff of people between here and Menlo Park, where Standford research is located some thirty miles south of here.  And uh, if everyone does their job well, it's all go very interesting, I think.  [Laughs]
+
+[2:00]
+
+The research program that I'm going to describe to you is quickly characterizable by saying:  If in your office, you as an intellectual worker, were supplied with a computer display backed up by a computer that was alive for you all day, and was instantly responsible, responsive [laughs], instantly responsive to every action you had, how much value could you derive from that?  Well, this basically characterizes what we've been pursuing for many years, and what we we call The Augmentive Human Intellect Research Center at Standford Research Institute.  Now, the whole session is going to be devoted to trying to describe and present to you the nature of this program, but unfortunately ... uh .. or fortunately [laughs], the products of this program, the technology of it, lends itself well to an interesting way to portray it for you.  So, we're going to do our best to show you, rather than tell you about this program.  
+
+[3:00]
+
+A very essential part of what we have developed technologically is what does come through this display to us.  And I'm going to start out without telling you very much about the program, and just run through a little bit of the action that this provides us.  So in my office, I have a console like this, and there are 12 others that are computer supplies.  And we try now-a-days to do our daily work on here. [laughs] So, this characterizes the way I could sit here and look at a clear blank piece of paper, that's the way I start many projects.  So with my system, I could start and say "I'd like to load that in."  So, sorry about that.  So, [typing on screen] I'm putting in an entity called a "statement."  And this is full of other entities called "words."  If I make some mistakes I can back up a little bit.  
+
+[4:00] [typing] 
+
+So I have a statement with some entities, words, and I can do some operations on these and copy a word, and that word might copy after itself.  In fact, a pair word I like to copy after itself.  And I can just do this a few times, and get a bit of material there.  And there are other entities, like "text."  I can copy from that point 
+
+[Frame Change] 
+
+to that point.  It's a copy.  So I can get myself some material on my blank piece of paper and say, "Well, this is going to be more important than it looks, so I'd like to set up a file."  So I tell the machine, "Output to a file."  And it says, "Well, I need a name."  I'll give it a name.  
+
+[Frame Change] 
+I'll say it's "sample file."  And I'll say "Please output it", and it did!  And then it sends back automatically with an origin statement or header, telling me the name of the file, the date and the time 
+
+[5:00]
+
+and who established it.  And thereafter, I can always do something, I can ask for the status of a file, and it'll tell me that information.  Very small file now, owned by me, mastered by me, very shortly ago, etc. and other interesting data.  So we've see how we can start with a blank piece of paper, and go to developing a file.  This file was one statement with a few words in it.  Let's make more statements.  I'll say "copy that statement" and lo and behold we have another one.  Copy that one, and another one.  I can even copy thesis statement.  I can copy that one, copy the root from here to there, and it does.  I can look at that and say, "Hmm, probably goes off the screen."  It would be interesting if I could ask the computer to collapse that, perhaps to show me just the first line of each of those statements.  
+
+[Frame Change] 
+
+All right, "Please do that", so it did.  This is one aspect of what we'll use over and over again in this presentation, what we call "view control", where no matter where on the file we're looking, 
+
+[6:00]
+
+we can ask it to use any one of a large number of parameters for constructing a view at that point in the file that best suits our needs at the time.  
+
+[Frame Change] 
+
+This one wants us to give an overview of the thing.  So I'll say,  "Well,  I have this, I don't want them all to be Statement One, so I'll just replace the word there with a "two", and how about that one with a "three"?  This is a place to forget how to count.  [Laughs.]  So I can look and say, "All right, that's statements one, two, three, and four", if I'd like to make them look prettier, I can ... uh .. hmm ... I can work and neaten them up a little, but that isn't what I always do.  Woops!  
+You can tell, that I am not warmed up yet.  [Audience laughs] I hope you can tell.  [Laughs.]  All right.  All right.  
+
+[7:00]
